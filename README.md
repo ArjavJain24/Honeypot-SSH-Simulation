@@ -34,16 +34,22 @@ This project implements a **Python-based SSH Honeypot** designed to simulate an 
 ## 🚀 Usage
 
 ### Run the Honeypot
-```bash
+
 python3 honeypot.py
 
-Simulate an Attack
+---
+
+##  Simulate an Attack
 ssh test@localhost -p 2222
 
-View Logs
+---
+
+## View Logs
 cat honeypot.log
 
-📂 Output
+---
+
+## 📂 Output
 
 The honeypot records:
 
@@ -53,7 +59,9 @@ Attacker IP Address
 
 SSH Banner Information
 
-📚 Learning Outcomes
+---
+
+## 📚 Learning Outcomes
 
 Honeypot deployment techniques
 
@@ -63,11 +71,16 @@ Threat intelligence collection
 
 Python socket programming
 
-⚠ Disclaimer
+---
+
+## ⚠ Disclaimer
 
 This project is intended strictly for educational purposes. Do not deploy on production systems.
 
-👨‍💻 Author
+---
+
+## 👨‍💻 Author
 
 Arjav Jain
+
 Cybersecurity Intern
